@@ -1,0 +1,1 @@
+function fact(a){return 0==a?1:a*fact(a-1)}function run(a){alert(fact(parseInt(a,10)))}
