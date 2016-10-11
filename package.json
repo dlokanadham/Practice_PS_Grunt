@@ -2,10 +2,15 @@
   "name": "myfirstgrunt",
   "version": "0.0.1",
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "~0.4.5",
     "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-htmlmin": "^2.0.0",
     "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-less": "^1.4.0",
     "grunt-contrib-uglify": "^2.0.0",
+    "grunt-htmlhint": "^0.9.13",
     "grunt-typescript": "^0.8.0"
   }
 }
